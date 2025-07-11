@@ -1,5 +1,5 @@
 export default {
-  token: "YOUR_BOT_TOKEN_HERE",
+  token: "xd-GOOWEQs74zUxyc899HhA68z_bVFfr",
   
   lavalink: {
     nodes: [
