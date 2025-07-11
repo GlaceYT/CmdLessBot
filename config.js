@@ -1,5 +1,5 @@
 export default {
-  token: "https://github.com/xenoncommits/CmdLessBot",
+  token: "MTIwMjU2NjI5MzA4NjE0MjUyNA.GYXWET.JKxdeJE3BckEMAch--GbKmpm4902l8SFJDnOtY",
   
   lavalink: {
     nodes: [
