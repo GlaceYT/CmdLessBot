@@ -4,11 +4,11 @@ export default {
   lavalink: {
     nodes: [
       {
-        name: "GlaceYT",
-        password: "glaceyt",
-        host: "5.39.63.207",
-        port: 8262,
-        secure: false,
+      name: "GlaceYT",
+      password: "glace",
+      host: "us-01.strixnodes.com",
+      port:  8003,
+      secure: false
       },
     ],
     defaultSearchPlatform: "ytmsearch",
@@ -43,4 +43,5 @@ export default {
   ],
   
   activityRotationInterval: 30000, 
+
 };
