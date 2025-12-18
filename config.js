@@ -4,10 +4,10 @@ export default {
   lavalink: {
     nodes: [
       {
-      name: "GlaceYT",
+      name: "GlceYT",
       password: "glace",
-      host: "us-01.strixnodes.com",
-      port:  8003,
+      host: "de-01.strixnodes.com",
+      port: 2010,
       secure: false
       },
     ],
@@ -45,3 +45,4 @@ export default {
   activityRotationInterval: 30000, 
 
 };
+
